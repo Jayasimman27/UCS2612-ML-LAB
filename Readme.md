@@ -1,0 +1,1 @@
+This repository is created as part of the **UCS 2612 – Machine Learning Lab** course. It focuses on learning Machine Learning fundamentals from the ground up, with an emphasis on core concepts such as data preprocessing, feature scaling, exploratory data analysis, and commonly used machine learning algorithms.
